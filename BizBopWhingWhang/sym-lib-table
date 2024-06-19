@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BizBopWhingWhang")(type "KiCad")(uri "${KIPRJMOD}/BizBopWhingWhang.kicad_sym")(options "")(descr ""))
+  (lib (name "usb_c_receptacle_usb2.0-connector")(type "KiCad")(uri "${KIPRJMOD}/usb_c_receptacle_usb2.0-connector.kicad_sym")(options "")(descr ""))
+)
